@@ -61,3 +61,29 @@ else:
 #5.to find the square root of a number:
 a=int(input("enter a number:",))
 print("the square root of the number is:",a**0.5)
+
+#6.to find simple interest and compound interest of a number:
+
+#7.
+x=10
+x += 5
+x -= 3
+x *= 2
+x /= 4
+x %= 2
+x **= 3
+print(x)
+
+#8.swapping of two numbers:
+
+#9.to find cube root of a number:
+a=int(input("enter a number to find its cube root",))
+print(a**0.33)
+
+#10.to find last two digits of 8523:
+a=8523
+print("the last two digits are",a%100)
+
+#11.to remove last two digits of 8523:
+a=8523
+print(a//100)
